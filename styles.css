@@ -1,0 +1,89 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Scheherazade+New&display=swap');
+h1{
+    color: #440e62;
+    font-family: 'Scheherazade New', serif;
+}
+
+
+.button1{
+    display: inline-block;
+    height: 80px;
+    width: 150px;
+    font-family: 'Scheherazade New', serif;
+}
+.button1:hover{
+    background: url("images/nav_home_act.gif") no-repeat;
+}
+
+.button2{
+    display: inline-block;
+    height: 80px;
+    width: 150px;
+    font-family: 'Scheherazade New', serif;
+}
+.button2:hover{
+    background: url("images/nav_about_act.gif") no-repeat;
+}
+
+.button3{
+    display: inline-block;
+    height: 80px;
+    width: 150px;
+    font-family: 'Scheherazade New', serif;
+}
+.button3:hover{
+    background: url("images/nav_contact_act.gif") no-repeat;
+}
+
+.button4{ 
+    display: inline-block;
+    height: 80px;
+    width: 150px;
+    font-family: 'Scheherazade New', serif;
+}
+.button4:hover{
+    background: url("images/nav_gallery_act.gif");
+}
+
+.button5{ 
+    display: inline-block;
+    height: 80px;
+    width: 150px;
+    font-family: 'Scheherazade New', serif;
+}
+.button5:hover{
+    background: url("images/nav_links_act.gif") no-repeat;
+}
+.button6{
+    display: inline-block;
+    height: 80px;
+    width: 150px;
+    font-family: 'Scheherazade New', serif;
+}
+.button6:hover{
+    background: url("images/nav_ordering_act.gif") no-repeat;
+}
+
+table {
+    border-collapse: collapse;
+  }
+  
+  td, th {
+    border: 1px solid ; border-color:#8d6d9f;
+    padding: 0.5rem;
+    text-align: left;
+    font-family: 'Scheherazade New', serif;
+    color:#440e62;
+     }
+p{
+    font-family: 'Scheherazade new', serif;
+}
+
+.Relatedlinks{
+    text-align: center;
+} 
+
+.mainlinks{
+    text-align:center;
+}
